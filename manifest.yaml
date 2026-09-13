@@ -1,0 +1,4 @@
+name: ctf-pathfinder-mentor
+version: 1.6.0
+scope: private
+description: 增加演示题目与完整测试
